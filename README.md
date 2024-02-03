@@ -1,3 +1,3 @@
 ---
-title: Simple Node Server
+title: Quick Node Server
 ---
